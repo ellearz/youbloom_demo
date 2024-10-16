@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1058002765400",
+    "project_id": "you-bloom",
+    "storage_bucket": "you-bloom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058002765400:android:4551a015b1d2f557a26c2d",
+        "android_client_info": {
+          "package_name": "com.example.youbloom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058002765400-383496fb6tf280enlrg9l7sui05r9in4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youbloom",
+            "certificate_hash": "b0b282a94a7ebc4d776143d78bf1fef3a58f1cb3"
+          }
+        },
+        {
+          "client_id": "1058002765400-qklft4hjh90np9ec49g8aivl8gh9phbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd0d6DkGg_w0U1sygrH-lEKb1sWkJuskQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058002765400-qklft4hjh90np9ec49g8aivl8gh9phbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058002765400-qr8b8ujtupbv2050t1gdobphjbbrtsi3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.youbloom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
