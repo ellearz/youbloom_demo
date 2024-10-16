@@ -38,5 +38,5 @@ To run the application on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ellearz/flutter_demo_project
+   git clone https://github.com/ellearz/youbloom_demo.git
    cd flutter_demo_project# youbloom_demo
